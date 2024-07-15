@@ -1,0 +1,16 @@
+just code
+++++++++++
+
+key goals
+----------
+
+options
+----------
+
+codemaster
+~~~~~~~~~~
+
+reboot
+~~~~~~~
+
+Hello World logic
